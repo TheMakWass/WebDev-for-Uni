@@ -86,6 +86,3 @@ WebDev-for-Uni-main/
 - Fonts are sourced from official F1 branding.
 - Website created for university coursework and F1 fan engagement.
 
----
-
-**Enjoy exploring the world of Formula 1 with F1 Hub!**
